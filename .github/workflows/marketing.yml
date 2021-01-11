@@ -1,7 +1,6 @@
 name: deploy-marketing
 
 on:
-  pull_request:
   push:
     branches:
       - main
